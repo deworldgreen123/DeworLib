@@ -1,0 +1,6 @@
+@DeworLib_HostAddress = http://localhost:5232
+
+GET {{DeworLib_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
